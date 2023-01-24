@@ -1,0 +1,71 @@
+input {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-top: 10px;
+}
+
+/*
+body {
+    background: #58c791;
+}
+
+.container {
+    display: flex;
+    height: 100%;
+}
+
+#logbox {
+    margin: 50px auto;
+    width: 340px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 175%;
+    color: gray;
+    font-weight: 300;
+}
+
+p {
+    width: 75%;
+    display: block;
+    margin: 30px auto 15px;
+    padding: 0 15px;
+}
+
+input {
+    width: 75%;
+    height: 50px;
+    display: block;
+    margin: 0 auto 15px;
+    padding: 0 15px;
+    border: none;
+    border-bottom: 2px solid #ebebeb;
+}
+
+.select {
+    width: 75%;
+    height: 55px;
+    display: block;
+    margin: 0 auto 15px;
+    padding: 0 15px;
+    border: none;
+    border-bottom: 2px solid #ebebeb;
+}
+
+.inputButton {
+    position: relative;
+    width: 85%;
+    height: 50px;
+    display: block;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+    color: white;
+    background-color: #58c791;
+    border: none;
+}
+*/
